@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="vibrate">vibrate</string>
+    <string name="silent">silent</string>
+    <string name="play">play</string>
+    <string name="my_alarm">My Alarm</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="audio_manager">audio manager</string>
+    <string name="audio_recorder">audio recorder</string>
+    <string name="bunyi">dalam mode berbunyi</string>
+</resources>
